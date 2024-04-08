@@ -1,4 +1,7 @@
-# Exhale-Designs-V1
+# Exhale-Designs-
+Dream analyzer analyzes your dream based on your description using Artificial Intelligence.
+UI Design- https://www.figma.com/proto/KzhAs5jRUIPeUAFMrIiIZY?node-id=0-1&mode=design&t=8YDuzdx9gIrb1qex-6
+
 Exhale Home page - https://www.figma.com/file/npBTkboTTjt2LKOslSfRAb/home-page?type=design&t=33JWVyEPZFSPQHf5-6
 
 Exhale Login Page- https://www.figma.com/file/u3gHlmwcmh9Cc4h8jr4ac5/login?type=design&t=33JWVyEPZFSPQHf5-6
